@@ -1,0 +1,5 @@
+pygame
+numpy
+stable-baselines3
+gymnasium
+sb3-contrib
