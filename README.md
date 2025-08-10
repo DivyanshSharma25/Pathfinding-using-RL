@@ -119,22 +119,20 @@ python reinforcement_learning/RL_testt.py
 The currently active maintainer(s) of this project.
 
 <!-- UPDATE -->
-- [Divyansh](https://github.com/DivyanshSharma25)
+- [Divyansh Sharma](https://github.com/DivyanshSharma25)
 
 ### Creator(s)
 
 Honoring the original creator(s) and ideator(s) of this project.
 
 <!-- UPDATE -->
-- [Divyansh](https://github.com/DivyanshSharma25)
+- [Divyansh Sharma](https://github.com/DivyanshSharma25)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Additional documentation
 
   - [License](/LICENSE)
-  - [Code of Conduct](/.github/CODE_OF_CONDUCT.md)
-  - [Security Policy](/.github/SECURITY.md)
   - [Contribution Guidelines](/.github/CONTRIBUTING.md)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
